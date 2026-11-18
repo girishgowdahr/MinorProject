@@ -1,0 +1,6 @@
+image,detections,inference_ms
+1551_catc.jpg,v-crossarm_tilted (0.92); topcleat_straight (0.88); crossarm_straight (0.59),12.67
+1601_catc.jpg,topcleat_straight (0.93); v-crossarm_straight (0.70),83.95
+1493_catc.jpg,v-crossarm_straight (0.91); topcleat_straight (0.59),10.08
+1482_catc.jpg,v-crossarm_tilted (0.69); topcleat_tilted (0.50); topcleat_straight (0.44); v-crossarm_straight (0.32),59.78
+1562_catc.jpg,crossarm_straight (0.85); crossarm_straight (0.74); crossarm_straight (0.37),14.33

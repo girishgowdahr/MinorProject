@@ -1,0 +1,2 @@
+experiment,model,imgsz,epochs,eval_split,precision,recall,mAP50,mAP50_95,F1,inference_ms_per_image,weights
+exp1_baseline,yolov8n.pt,640,5,test,0.6313,0.7855,0.7727,0.5964,0.7,6.33,/content/yolo_inspection/runs/detect/runs/exp1_baseline/weights/best.pt

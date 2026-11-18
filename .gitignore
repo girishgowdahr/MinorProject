@@ -1,0 +1,11 @@
+.venv/
+.venv-*/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+data/.cache/
+data/crossarm_top_cleat_tilt_assessment/object_detection/
+*.log
+.DS_Store
+Thumbs.db
